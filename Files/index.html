@@ -10,6 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/custom.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
@@ -96,7 +97,7 @@
 						<div class="inner onscroll-fade-in">
 							<h2>Das Barriere-Spiel</h2>
 							<p>Es kann losgehen. Klicken Sie einfach auf den Ziehen-Button um zufällig jeweils eine Was-, eine Wo- und eine Wer-Karte zu ziehen!</p>
-									<a class="button big wide smooth-scroll-middle center-horizontal" id="ziehenButton">Ziehen</a>
+							<a class="button big wide smooth-scroll-middle center-horizontal" id="ziehenButton">Ziehen</a>
 						</div>
 
 						<!-- Gallery -->
@@ -177,14 +178,29 @@
 					</section>
 
 					<section class="wrapper style1 align-left">
-						<div class="inner">
+						<div class="inner" id="schritt4">
 							<h3>4. Schritt</h3>
 							<p>Halten Sie in Ihrer Gruppe ein konkretes Vorhaben fest.<br>
 								<div class="box">
 									Für die [Aktivität] wollen wir die Teilhabe von Eltern, die [Elterntyp], erleichtern und werden darum [Vorhaben].
 								</div>
+								<div class="box">
+										Für die
+										<input type="text" id="aktivitaet" name="aktivitaet" maxlength="100" placeholder="Aktivität">
+										 wollen wir die Teilhabe von Eltern erleichtern, die
+										<input type="text" id="elterntyp" name="elterntyp" maxlength="50" placeholder="Elterntyp">,
+										und werden darum
+										<input type="text" id="loesung" name="loesung" maxlength="200" placeholder="Vorhaben">.
+										<!--
+										<br>
+										<br><input type="button" onclick="copytoclipboard()" value="In Zwischenablage kopieren"> -->
+									<br><br>
+									<a class="button big wide smooth-scroll-middle center-horizontal" id="clipboard_button">In Zwischenablage kopieren</a><br><br>
+
+									<p>Klicken sie auf „In Zwischenabalge kopieren“ um den eigegebenen Text in Word oder jedes anderen Programm kopieren zu können (Windwos: Str. + v, Mac. Cmd. + v).</p>
+								</div>
 								Vereinbaren Sie einen verbindlichen Termin (z.B. in drei Monaten, bei einer Teamsitzung) zu dem Sie noch einmal über dieses Vorhaben und dessen Umsetzung reflektieren.<br>
-								Notieren Sie sich dafür das Vorhaben und folgende Fragen:
+								Notieren Sie dafür zusätzlich zum Vorhaben folgende Fragen:
 								<ul>
 									<li>Wurde das Vorhaben umgesetzt?</li>
 									<li>Welche Schwierigkeiten gab es?</li>
@@ -287,6 +303,8 @@
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
 			<script src="assets/js/random.js"></script>
+			<script src="assets/js/toclipboard.js"></script>
+
 
 	</body>
 </html>

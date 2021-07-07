@@ -1,0 +1,23 @@
+#aktivitaet {
+  display: inline;
+  width: 70%;
+  border: none;
+  border-radius: 0px;
+  border-bottom: 2px solid black;
+}
+
+#elterntyp {
+  display: inline;
+  width: 50%;
+  border: none;
+  border-radius: 0px;
+  border-bottom: 2px solid black;
+}
+
+#loesung {
+  display: inline;
+  width: 95%;
+  border: none;
+  border-radius: 0px;
+  border-bottom: 2px solid black;
+}
