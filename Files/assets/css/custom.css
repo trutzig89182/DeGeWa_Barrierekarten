@@ -1,6 +1,8 @@
 #aktivitaet {
   display: inline;
   width: 70%;
+  height: 2.4rem;
+  padding: 0 0.6rem;
   border: none;
   border-radius: 0px;
   border-bottom: 2px solid black;
@@ -9,6 +11,8 @@
 #elterntyp {
   display: inline;
   width: 50%;
+  height: 2.4rem;
+  padding: 0 0.6rem;
   border: none;
   border-radius: 0px;
   border-bottom: 2px solid black;
@@ -17,6 +21,8 @@
 #loesung {
   display: inline;
   width: 95%;
+  height: 2.4rem;
+  padding: 0 0.6rem;
   border: none;
   border-radius: 0px;
   border-bottom: 2px solid black;
