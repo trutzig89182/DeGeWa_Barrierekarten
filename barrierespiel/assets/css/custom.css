@@ -3,6 +3,10 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* is this needed to import font for select, options? */
+@import url("sourcesanspro.css");
+
+
 
 /* zurückbutton */
 
@@ -45,3 +49,8 @@
   border-radius: 0px;
   border-bottom: 2px solid black;
 }
+
+/* Add Source Sans Pro Font for select -> option here FUNKTIONIERT SO Noch nicht.*/
+/* select, option {
+  font-family: "The Source Pro", Helvetica, sans-serif;
+} */
