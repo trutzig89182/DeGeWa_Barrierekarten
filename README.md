@@ -1,7 +1,8 @@
 # DeGeWa_Barrierekarten
 
 Online-Übung zu den Barrierekarten vom Projekt „Demokratisch. Gemeinsam. Wachsen. Eltern als Partner*innen der Demokratieförderung“ der IFAK e.V.
-Homepage: https://ifak-bochum.de/degewa
+Abrufbar unter: https://degewa.ifak-bochum.de/barrierespiel/
+
 
 ## Main changes between versions:
 
