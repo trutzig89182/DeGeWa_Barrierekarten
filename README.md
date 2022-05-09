@@ -3,6 +3,7 @@
 Online-Übung zu den Barrierekarten vom Projekt „Demokratisch. Gemeinsam. Wachsen. Eltern als Partner*innen der Demokratieförderung“ der IFAK e.V.
 Abrufbar unter: https://degewa.ifak-bochum.de/barrierespiel/
 
+Website design based on the html5up „Story“ template (https://html5up.net/license).
 
 ## Main changes between versions:
 
