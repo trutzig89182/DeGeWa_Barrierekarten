@@ -7,24 +7,24 @@ var woPix_a = new Array("images/a/Wo/1.png", "images/a/Wo/2.png", "images/a/Wo/3
 var wasPix_a = new Array("images/a/Was/1.png", "images/a/Was/2.png", "images/a/Was/3.png", "images/a/Was/4.png", "images/a/Was/5.png", "images/a/Was/6.png", "images/a/Was/7.png", "images/a/Was/8.png", "images/a/Was/9.png", "images/a/Was/10.png");
 
 var werPixName_a = new Array("Erziehungsberechtige:r im Schichtdienst", "Alleinerziehende:r Erziehungsberechtigte:r", "Gleichgeschlechtliche Erziehungsberechtigte", "Erziehungsberechtigte:r im Rollstuhl", "Eltern beide in Vollzeit", "Erwerbslose Erziehungsberechtigte", "Familie mit Migrationsgeschichte", "Mutter mit Kopftuch", "Elternteil mit geringen Deutschkenntnissen", "Eltern mit negativen Erfahrungen in Bildungsinstitutionen", "Psychisch erkrankte:r Erziehungsberechtigte:r");
-var woPixName_a = new Array("Pädagogische Einrichtung", "Religiöses Gemeindezentraum", "Beratungsstelle für Familien", "Kulturverein", "Jugendamt", "Turnhalle", "Außengelände", "Gruppenraum", "Caféteria einer sozialen Einrichtung", "Stadtteilzentrum");
+var woPixName_a = new Array("Pädagogische Einrichtung", "Religiöses Gemeindezentrum", "Beratungsstelle für Familien", "Kulturverein", "Jugendamt", "Turnhalle", "Außengelände", "Gruppenraum", "Caféteria einer sozialen Einrichtung", "Stadtteilzentrum");
 var wasPixName_a = new Array("Offenes Elternfrühstück", "Mutter-Kind-Turnen", "Weihnachtsfeier", "Elternnachmittag", "Elterngespräch", "Basteltag", "Aushang", "Eltern- oder Infobrief", "Informelles Elterngespräch", "Eingewöhnungs- oder Begleitungsphase");
 
-var werPix_b = new Array("images/b/Wer/1.png");
-var woPix_b = new Array("images/b/Wo/1.png");
-var wasPix_b = new Array("images/b/Was/1.png");
+var werPix_b = new Array("images/b/Wer/1.png", "images/b/Wer/2.png", "images/b/Wer/3.png", "images/b/Wer/4.png", "images/b/Wer/5.png", "images/b/Wer/6.png", "images/b/Wer/7.png", "images/b/Wer/8.png", "images/b/Wer/9.png", "images/b/Wer/10.png", "images/b/Wer/11.png", "images/b/Wer/12.png", "images/b/Wer/13.png");
+var woPix_b = new Array("images/b/Wo/1.png", "images/b/Wo/2.png", "images/b/Wo/3.png", "images/b/Wo/4.png", "images/b/Wo/5.png", "images/b/Wo/6.png", "images/b/Wo/7.png", "images/b/Wo/8.png", "images/b/Wo/9.png", "images/b/Wo/10.png", "images/b/Wo/11.png", "images/b/Wo/12.png");
+var wasPix_b = new Array("images/b/Was/1.png", "images/b/Was/2.png", "images/b/Was/3.png", "images/b/Was/4.png", "images/b/Was/5.png", "images/b/Was/6.png", "images/b/Was/7.png", "images/b/Was/8.png", "images/b/Was/9.png", "images/b/Was/10.png", "images/b/Was/11.png");
 
-var werPixName_b = new Array("GZ");
-var woPixName_b = new Array("GZ");
-var wasPixName_b = new Array("GZ");
+var werPixName_b = new Array("Erziehungsberechtige:r im Schichtdienst", "Alleinerziehende:r Erziehungsberechtigte:r", "Gleichgeschlechtliche Erziehungsberechtigte", "Erziehungsberechtigte:r im Rollstuhl", "armutsbetroffene Erziehungsberechtigte", "Erwerbslose Erziehungsberechtigte", "Familie mit Migrationsgeschichte", "Mutter mit Kopftuch", "Elternteil mit geringen Deutschkenntnissen", "Eltern mit negativen Erfahrungen in (Bildungs-)Institutionen", "Psychisch erkrankte*r Erziehugsberechtigte*r", "Eltern sind Jehovas Zeugen", "Eltern ohne sichere Bleibeperspektive");
+var woPixName_b = new Array("Klassenraum", "Religiöses Gemeindezentrum", "Kulturverein", "Beratungsstelle für Familien", "Jugendamt", "Turnhalle", "Außengelände", "Gruppenraum", "Caféteria", "Stadtteilzentrum", "Jugendtreff", "Gesundheitszentrum");
+var wasPixName_b = new Array("Elternabend", "Weihnachtsfeier", "Sommerfest", "Krisengespräch", "Bastelnachmittag", "Vorlesewettbewerb", "Themenwoche „Demokratie“”", "Aushang", "Eltern- oder Inforbrief", "Informelles Elterngespräch", "Individuelles Anmeldegespräch");
 
-var werPix_c = new Array("images/c/Wer/1.png");
-var woPix_c = new Array("images/c/Wo/1.png");
-var wasPix_c = new Array("images/c/Was/1.png");
+var werPix_c = new Array("images/c/Wer/1.png", "images/c/Wer/2.png", "images/c/Wer/3.png", "images/c/Wer/4.png", "images/c/Wer/5.png", "images/c/Wer/6.png", "images/c/Wer/7.png", "images/c/Wer/8.png", "images/c/Wer/9.png", "images/c/Wer/10.png", "images/c/Wer/11.png", "images/c/Wer/12.png");
+var woPix_c = new Array("images/c/Wo/1.png", "images/c/Wo/2.png", "images/c/Wo/3.png", "images/c/Wo/4.png", "images/c/Wo/5.png", "images/c/Wo/6.png", "images/c/Wo/7.png", "images/c/Wo/8.png", "images/c/Wo/9.png", "images/c/Wo/10.png", "images/c/Wo/11.png", "images/c/Wo/12.png");
+var wasPix_c = new Array("images/c/Was/1.png", "images/c/Was/2.png", "images/c/Was/3.png", "images/c/Was/4.png", "images/c/Was/5.png", "images/c/Was/6.png", "images/c/Was/7.png", "images/c/Was/8.png", "images/c/Was/9.png", "images/c/Was/10.png");
 
-var werPixName_c = new Array("GZ");
-var woPixName_c = new Array("GZ");
-var wasPixName_c = new Array("GZ");
+var werPixName_c = new Array("Erziehungsberechtige:r im Schichtdienst", "Alleinerziehende:r Erziehungsberechtigte:r", "Gleichgeschlechtliche Erziehungsberechtigte", "Erziehungsberechtigte:r im Rollstuhl", "armutsbetroffene Erziehungsberechtigte", "Familie mit Migrationserfahrung", "Mutter mit Kopftuch", "Elternteil mit geringen Deutschkenntnissen", "Eltern mit negativen Erfahrungen in (Bildungs-)Institutionen", "Psychisch erkrankte*r Erziehugsberechtigte*r", "Eltern sind Jehovas Zeugen", "Eltern ohne sichere Bleibeperspektive");
+var woPixName_c = new Array("Klassenraum", "Religiöses Gemeindezentrum", "Kulturverein", "Beratungsstelle für Familien", "Jugendamt", "Turnhalle", "Außengelände", "Gruppenraum", "Caféteria", "Stadtteilzentrum", "Jugendtreff", "Gesundheitszentrum");
+var wasPixName_c = new Array("Elternabend", "Weihnachtsfeier", "Sommerfest", "Krisengespräch", "Themenwoche „Demokratie“", "Aushang", "Info- oder Elternbrief", "Informelles Elterngespräch", "Individuelles Anmeldegespräch", "Vorführung der Zirkus-AG");
 
 
 
